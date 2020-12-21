@@ -1,5 +1,5 @@
 # 02456_deeplearning_cgm
-A [template}(https://github.com/hedia-team/02456_deeplearning_cgmforecast/tree/devBranch) has been given from Hedia, which takes care of running and validating the neural network.
+A [template](https://github.com/hedia-team/02456_deeplearning_cgmforecast/tree/devBranch) has been given from Hedia, which takes care of running and validating the neural network.
 
 # Installation
 Using the repo requires installation of `poetry`. Guide to installation can be found [here](https://python-poetry.org/docs/#installation)
