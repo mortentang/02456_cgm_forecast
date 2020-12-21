@@ -1,6 +1,8 @@
 # 02456_deeplearning_cgm
 A [template](https://github.com/hedia-team/02456_deeplearning_cgmforecast/tree/devBranch) has been given from Hedia, which takes care of running and validating the neural network.
 
+To run the model, the OhioT1DM dataset is needed. This is not publicly available.
+
 # Installation
 Using the repo requires installation of `poetry`. Guide to installation can be found [here](https://python-poetry.org/docs/#installation)
 This tool manages all the required python packages in a virtual environement. After installation run
@@ -26,5 +28,5 @@ Remember to load the correct model in the scripts. That is, if you create a new 
 
 
 # Execution
-If you have installed poetry properly, you should be able to run the scripts from the terminal using `poetry run python3 example_script.py`
+If you have installed poetry properly, you should be able to run the scripts from the terminal using `poetry run python3 model_script.py`
 
